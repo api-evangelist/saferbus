@@ -1,0 +1,65 @@
+{
+    "name": "SaferBus",
+    "description": "Welcome to the Facebook page of the U.S. Department of Transportation.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1295-saferbus.jpg",
+    "tags": [
+        "bus",
+        "have api",
+        "safety"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/saferbus\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SaferBus",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1295-saferbus.jpg",
+            "humanURL": "https:\/\/mobile.fmcsa.dot.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/saferbus-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/u-s-department-of-transportation"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/mobile.fmcsa.dot.gov\/developer\/apidoc.page?cid=29958"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@dot.gov"
+        },
+        {
+            "type": "Email",
+            "url": "Denise.P.Wright@dot.gov"
+        },
+        {
+            "type": "Email",
+            "url": "DOTCFO@dot.gov"
+        },
+        {
+            "type": "Email",
+            "url": "Edward.c.ramos@dot.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/USDOT"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/mobile.fmcsa.dot.gov"
+        }
+    ]
+}
